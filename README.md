@@ -1,8 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Sarthak Gupta</h1>
+
 <h3 align="center">I am Passionate in WebDev & Solving Problems in coding.</h3>
 
-<img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" alt="side image" align="right" width="400">
+
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
+
+<img align="right" src="https://little.kylerconway.com/images/golang-what.gif" width="300">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-stranger&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-stranger" /> </p>
  
 
@@ -26,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-stranger&show_icons=true&locale=en" alt="sarthak-stranger" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-stranger&" alt="sarthak-stranger" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-stranger&" alt="sarthak-stranger" /></p> 
